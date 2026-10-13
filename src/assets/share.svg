@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4f7f1"/>
+<rect x="810" y="0" width="390" height="630" fill="#234d3f"/>
+<rect x="68" y="64" width="54" height="54" rx="15" fill="#234d3f"/>
+<path d="M82 98V87h7v11zm10 0V80h7v18zm10 0V73h7v25zM82 105h27" fill="#cbefb5" stroke="#cbefb5" stroke-width="2"/>
+<text x="138" y="103" fill="#222b2a" font-family="Arial,sans-serif" font-size="38" font-weight="600">stockroom.</text>
+<text x="68" y="292" fill="#222b2a" font-family="Arial,sans-serif" font-size="84" font-weight="600" letter-spacing="-4">Stocks, onchain.</text>
+<text x="73" y="358" fill="#596c60" font-family="Arial,sans-serif" font-size="29">50 tokenized stocks. One connected wallet.</text>
+<rect x="73" y="440" width="217" height="58" rx="10" fill="#234d3f"/>
+<text x="102" y="477" fill="#fff" font-family="Arial,sans-serif" font-size="23">Powered by IMD</text>
+<g fill="none" stroke="#507354" stroke-width="1"><circle cx="1005" cy="315" r="228"/><circle cx="1005" cy="315" r="160"/><circle cx="1005" cy="315" r="91"/></g>
+<g transform="translate(881 199)"><rect width="247" height="231" rx="30" fill="#cbefb5"/><path d="M47 154V103h34v51zm60 0V67h34v87zm60 0V34h34v120zM47 184h154" fill="#234d3f" stroke="#234d3f" stroke-width="7"/></g>
+<text x="73" y="561" fill="#596c60" font-family="Arial,sans-serif" font-size="20">Ethereum · Wallet-connected stock trading</text>
+</svg>

@@ -1,0 +1,182 @@
+{
+  "fetchedAt": "2026-10-13T06:36:43.233767+00:00",
+  "source": "DEX Screener",
+  "quotes": {
+    "0x14c3abf95cb9c93a8b82c1cdcb76d72cb87b2d4c": {
+      "price": 344.48,
+      "change": 1.69,
+      "volume": 8251.32,
+      "liquidity": 39253.92,
+      "url": "https://dexscreener.com/ethereum/0xad82c9eb065a5cfed71db087e4a52c8a09c69921",
+      "pairAddress": "0xad82C9EB065a5CFed71DB087e4a52C8a09c69921"
+    },
+    "0x2d1f7226bd1f780af6b9a49dcc0ae00e8df4bdee": {
+      "price": 224.85,
+      "change": -2.49,
+      "volume": 205508.15,
+      "liquidity": 293374.89,
+      "url": "https://dexscreener.com/ethereum/0xc9b4bc7c15423fcfe6b75ab5118ba773945a3a46",
+      "pairAddress": "0xc9b4bC7C15423FCFe6B75aB5118bA773945A3A46"
+    },
+    "0xf6b1117ec07684d3958cad8beb1b302bfd21103f": {
+      "price": 376.0044,
+      "change": -1.87,
+      "volume": 20937.76,
+      "liquidity": 79081.26,
+      "url": "https://dexscreener.com/ethereum/0x31227b50eccdc9c589826aa2d9e7c5619b1895da",
+      "pairAddress": "0x31227b50eCCDC9C589826AA2D9E7C5619B1895Da"
+    },
+    "0xb812837b81a3a6b81d7cd74cfb19a7f2784555e5": {
+      "price": 524.27,
+      "change": 0.02,
+      "volume": 6938.13,
+      "liquidity": 9910.82,
+      "url": "https://dexscreener.com/ethereum/0xb97c30485cfdb895a811331e2a3aab1233a5bf8ff27b6be149edbdc7e9a37333",
+      "pairAddress": "0xb97c30485cfdb895a811331e2a3aab1233a5bf8ff27b6be149edbdc7e9a37333"
+    },
+    "0xbb8774fb97436d23d74c1b882e8e9a69322cfd31": {
+      "price": 258.69,
+      "change": -4.2,
+      "volume": 1048.66,
+      "liquidity": 2063.54,
+      "url": "https://dexscreener.com/ethereum/0x267d70816c37d531818dfe2224a1e5beac46fe74929f2370433c1918facb3a8d",
+      "pairAddress": "0x267d70816c37d531818dfe2224a1e5beac46fe74929f2370433c1918facb3a8d"
+    },
+    "0x0c666485b02f7a87d21add7aeb9f5e64975aa490": {
+      "price": 209.63,
+      "change": 0.94,
+      "volume": 426.76,
+      "liquidity": 27182.24,
+      "url": "https://dexscreener.com/ethereum/0x4bfe373357f4329c7e1df2736b2d5b7421c71af6",
+      "pairAddress": "0x4BFe373357f4329c7e1DF2736B2D5b7421c71AF6"
+    },
+    "0x71d24baeb0a033ec5f90ff65c4210545af378d97": {
+      "price": 26.18,
+      "change": 1.98,
+      "volume": 702.49,
+      "liquidity": 2223.38,
+      "url": "https://dexscreener.com/ethereum/0x6951864e6273a4dbf84bd7c145f920c205d3f6a7d63905f7439499e169bf3acd",
+      "pairAddress": "0x6951864e6273a4dbf84bd7c145f920c205d3f6a7d63905f7439499e169bf3acd"
+    },
+    "0x5bcd8195e3ef58f677aef9ebc276b5087c027050": {
+      "price": 72.11,
+      "change": -0.25,
+      "volume": 38.48,
+      "liquidity": 1613.77,
+      "url": "https://dexscreener.com/ethereum/0xb97e08a69b56196e4fc088db9fc73af43207d094",
+      "pairAddress": "0xb97E08A69b56196E4fC088Db9fC73af43207D094"
+    },
+    "0xd8e26fcc879b30cb0a0b543925a2b3500f074d81": {
+      "price": 35.39,
+      "change": 0.54,
+      "volume": 95.81,
+      "liquidity": 2015.52,
+      "url": "https://dexscreener.com/ethereum/0x00deda65a3dc23cf86ec4d918773edb1e1998911",
+      "pairAddress": "0x00DeDA65A3dC23cf86ec4d918773eDb1E1998911"
+    },
+    "0x06954faa913fa14c28eb1b2e459594f22f33f3de": {
+      "price": 17.58,
+      "change": 15.39,
+      "volume": 49.98,
+      "liquidity": 209.56,
+      "url": "https://dexscreener.com/ethereum/0xfec64fd4a479d1fdced520dc66a48df35e6c3bcbdf32f2e2750c5b73f35a17cc",
+      "pairAddress": "0xfec64fd4a479d1fdced520dc66a48df35e6c3bcbdf32f2e2750c5b73f35a17cc"
+    },
+    "0xfda09936dbd717368de0835ba441d9e62069d36f": {
+      "price": 104.29,
+      "change": -2.27,
+      "volume": 252.55,
+      "liquidity": 2000.93,
+      "url": "https://dexscreener.com/ethereum/0x2cff3a63169c257ace9a0f2c6eaf449bc112fed1da144a6090fecbd340dc11e3",
+      "pairAddress": "0x2cff3a63169c257ace9a0f2c6eaf449bc112fed1da144a6090fecbd340dc11e3"
+    },
+    "0xf404e5f887dbd5508e16a1198fcdd5de1a4296b8": {
+      "price": 260.012,
+      "change": -4.01,
+      "volume": 1187.24,
+      "liquidity": 6504.71,
+      "url": "https://dexscreener.com/ethereum/0xd2203528ed35f12a72e2e42166ce212a69acf435",
+      "pairAddress": "0xD2203528ed35F12a72E2E42166ce212A69aCF435"
+    },
+    "0x980a1001ee94e54142b231f44c7ca7c9df71fbe1": {
+      "price": 97.11,
+      "change": null,
+      "volume": 17.25,
+      "liquidity": 296.79,
+      "url": "https://dexscreener.com/ethereum/0x9d8d92d798e9881f81ea4afce9612dfb5f4b43469d0bee1ac91b7739c9d2b684",
+      "pairAddress": "0x9d8d92d798e9881f81ea4afce9612dfb5f4b43469d0bee1ac91b7739c9d2b684"
+    },
+    "0x25018520138bbab60684ad7983d4432e8b8e926b": {
+      "price": 41.59,
+      "change": -3.95,
+      "volume": 19.92,
+      "liquidity": 997.17,
+      "url": "https://dexscreener.com/ethereum/0xcb92b30a11f2941eddc2364672f79b2a7bfe93609214634139e69c4063979e23",
+      "pairAddress": "0xcb92b30a11f2941eddc2364672f79b2a7bfe93609214634139e69c4063979e23"
+    },
+    "0x74a03d741226f738098c35da8188e57aca50d146": {
+      "price": 88.21,
+      "change": null,
+      "volume": 129.46,
+      "liquidity": 7264.97,
+      "url": "https://dexscreener.com/ethereum/0x9fa757ca05e11f9e92c49123fa64b61d9ff7e162acffbb721780d9fe39f0725d",
+      "pairAddress": "0x9fa757ca05e11f9e92c49123fa64b61d9ff7e162acffbb721780d9fe39f0725d"
+    },
+    "0x8a23c6baadb88512b30475c83df6a63881e33e1e": {
+      "price": 140.41,
+      "change": null,
+      "volume": 0.51,
+      "liquidity": 2111.54,
+      "url": "https://dexscreener.com/ethereum/0x5f297b8566f1ac73d885e0a87b053f8b19e4e1f9",
+      "pairAddress": "0x5f297b8566F1Ac73D885e0A87B053F8b19e4E1f9"
+    },
+    "0x3632dea96a953c11dac2f00b4a05a32cd1063fae": {
+      "price": 82.58,
+      "change": -3.19,
+      "volume": 2611.48,
+      "liquidity": 9998.69,
+      "url": "https://dexscreener.com/ethereum/0xb91e13f4c93de2f7f007fa0407ec4226f03b408f",
+      "pairAddress": "0xb91e13F4c93De2F7F007Fa0407EC4226f03B408F"
+    },
+    "0xbc843b147db4c7e00721d76037b8b92e13afe13f": {
+      "price": 430.33,
+      "change": 1.18,
+      "volume": 537.3,
+      "liquidity": 8264.46,
+      "url": "https://dexscreener.com/ethereum/0xc47cf5b973fa675dd561020c266686b4e81caef3",
+      "pairAddress": "0xC47CF5b973fa675Dd561020c266686B4e81cAef3"
+    },
+    "0x41765f0fcddc276309195166c7a62ae522fa09ef": {
+      "price": 108.92,
+      "change": -1.24,
+      "volume": 100.02,
+      "liquidity": 3645.89,
+      "url": "https://dexscreener.com/ethereum/0xf34bb48c19fd0a9e19680a82e60c13249584bae3",
+      "pairAddress": "0xF34bb48c19fD0a9e19680A82E60C13249584Bae3"
+    },
+    "0x0d54d4279b9e8c54cd8547c2c75a8ee81a0bcae8": {
+      "price": 222.88,
+      "change": -75.82,
+      "volume": 1402.14,
+      "liquidity": 224.78,
+      "url": "https://dexscreener.com/ethereum/0xd3e64ce6a2feef6c8c418ef64b7d73f509d63da035ae59c4699812928c738d64",
+      "pairAddress": "0xd3e64ce6a2feef6c8c418ef64b7d73f509d63da035ae59c4699812928c738d64"
+    },
+    "0x4c82c8cd9a218612dce60b156b73a36705645e3b": {
+      "price": 375.04,
+      "change": 50.48,
+      "volume": 236.76,
+      "liquidity": 4405.22,
+      "url": "https://dexscreener.com/ethereum/0xc7f31d7f190ff8efcac9ebdc4205543ef388bcd91374a2b52a060ed3060ee664",
+      "pairAddress": "0xc7f31d7f190ff8efcac9ebdc4205543ef388bcd91374a2b52a060ed3060ee664"
+    },
+    "0xcabd955322dfbf94c084929ac5e9eca3feb5556f": {
+      "price": 153.0016,
+      "change": -2,
+      "volume": 180.85,
+      "liquidity": 199.59,
+      "url": "https://dexscreener.com/ethereum/0xb51a354fa57872060ce74f6d2d3a937a7ab25fdf",
+      "pairAddress": "0xb51a354FA57872060Ce74f6d2d3A937A7AB25Fdf"
+    }
+  }
+}
